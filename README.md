@@ -12,6 +12,9 @@ To trainin the network please run:
 
 `python training.py --config=jsons/config.json` 
 
+
+***
+
 ### Acknowledgments
 
 This implementation was inspired by *[geosada](https://github.com/geosada/LVAE)* Tensorflow implementation of the LVAE original paper. If you find this work useful, please cite the following papers: 
