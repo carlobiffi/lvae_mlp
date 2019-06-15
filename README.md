@@ -4,7 +4,7 @@ The Tensorflow code in this repository implements the modifications of the VAE a
 
 ### Usage
 
-Make sure you have *[Python 3.4](https://www.python.org/downloads/windows/)* and *[Tensorflow](https://www.python.org/downloads/windows/)(https://www.tensorflow.org/install/)* installed.
+Make sure you have *[Python 3.4](https://www.python.org/downloads/windows/)* and *[Tensorflow](https://www.tensorflow.org/install/)* installed.
 
 The architecture and training details can be configured in the `config/config.json` file.
 
