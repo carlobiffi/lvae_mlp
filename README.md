@@ -8,7 +8,7 @@ Make sure you have *[Python 3.4](https://www.python.org/downloads/windows/)* and
 
 The architecture and training details can be configured in the `config/config.json` file.
 
-To trainin the network please run:
+To train the network please run:
 
 `python training.py --config=jsons/config.json` 
 
