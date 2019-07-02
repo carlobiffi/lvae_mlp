@@ -1,7 +1,7 @@
 # Explainable Shape Analysis through Deep Generative Models [![DOI](https://zenodo.org/badge/192420491.svg)](https://zenodo.org/badge/latestdoi/192420491)
 
 
-The Tensorflow code in this repository implements the modifications of the VAE and Ladder VAE frameworks presented in *[Learning Interpretable Anatomical Features through Deep Generative Models: Application to Cardiac Remodeling](https://arxiv.org/pdf/1807.06843.)* and *[Explainable Shape Analysis through Deep Hierarchical Generative Models: Application to Cardiac Remodelling](http://arxiv.org/abs/1907.00058)* papers.
+The Tensorflow code in this repository implements the modifications of the VAE and Ladder VAE frameworks presented in *[Learning Interpretable Anatomical Features through Deep Generative Models: Application to Cardiac Remodeling](https://arxiv.org/pdf/1807.06843)* and *[Explainable Shape Analysis through Deep Hierarchical Generative Models: Application to Cardiac Remodelling](http://arxiv.org/abs/1907.00058)* papers.
 
 ### Usage
 
